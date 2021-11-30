@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux'
 
-const user = (state = null) => state
+const user = (state = "booger") => state
 
 const cars = (state = []) => state
 
